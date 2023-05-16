@@ -6,8 +6,6 @@
     + board__btn
     + board__write 
 */
-.board__inner {}
-
 .board__search {
     display: flex;
     justify-content: space-between;
